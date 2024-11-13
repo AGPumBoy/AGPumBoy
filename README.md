@@ -1,4 +1,4 @@
 - 👋 Hello My real name is Jung Hyeon-su! nice to see you.
 - 👀 My main job is streamer. Sub job is developer Backend(Java)
-- 🌱 I'm learning to Java code system.
+- 🌱 I'm learning to Java, Python, PHP, etc... code system.
 - ⚡ Fun fact: My language skill is not good.
